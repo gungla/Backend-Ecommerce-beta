@@ -1,0 +1,28 @@
+Phase started: Warm up (index: 0, duration: 2.5s) 23:25:21(-0300)
+
+Phase completed: Warm up (index: 0, duration: 2.5s) 23:25:24(-0300)
+
+--------------------------------------
+Metrics for period to: 23:25:30(-0300) (width: 2.376s)
+--------------------------------------
+
+vusers.created_by_name.Test endpoint request: ............... 122
+vusers.created.total: ....................................... 122
+vusers.failed: .............................................. 122
+http.request_rate: .......................................... 50/sec
+http.requests: .............................................. 122
+errors.ECONNREFUSED: ........................................ 122
+
+
+All VUs finished. Total time: 4 seconds
+
+--------------------------------
+Summary report @ 23:25:25(-0300)
+--------------------------------
+
+vusers.created_by_name.Test endpoint request: ............... 122
+vusers.created.total: ....................................... 122
+vusers.failed: .............................................. 122
+http.request_rate: .......................................... 50/sec
+http.requests: .............................................. 122
+errors.ECONNREFUSED: ........................................ 122
