@@ -1,4 +1,4 @@
-# Entrega proyecto coderHouse 3
+# Backend Ecommerce Node
 
 ## Variables de entorno
 
